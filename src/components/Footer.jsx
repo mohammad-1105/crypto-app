@@ -49,10 +49,7 @@ const Footer = () => {
         </h1>
         <div className="border-b-2 w-40 border-yellow-500  "></div>
         <p className="text-[18px] md:text-xl text-gray-400 tracking-wider">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ab
-          qui quaerat! Incidunt, tenetur. Sed corporis corrupti saepe nobis
-          eveniet voluptas temporibus iusto in illo voluptatem! Odio in sint
-          sapiente quia debitis modi.
+        Welcome to our cutting-edge company, the driving force behind a revolutionary crypto currency app. We are passionate about providing users with real-time market data and empowering them to navigate the ever-evolving world of digital currencies. Our app combines intuitive design with comprehensive exchange rankings, giving users the tools they need to make informed decisions. Join us on our mission to redefine the crypto trading experience and stay ahead of the curve in this exciting industry.
         </p>
 
         <div className="flex gap-3">
